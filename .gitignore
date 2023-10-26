@@ -1,2 +1,4 @@
 "C:\Users\paulw\eclipse-workspace\SpringBootRESTApiAngularFrontEnd\src\main\resources\application.properties"
 target/classes/application.properties
+src/main/java/resources/application.properties
+target/classes/resources/application.properties
